@@ -4,5 +4,5 @@ I'm currently looking to expand on my understanding and experiences within the a
 
 Please feel free to check out some of my projects below, or take a look at my website to learn more!
 
-| [BlueSky](http://bsky.app/profile/lukeonline.net) | [Website](https://lukeonline.net) |
-|---------------------------------------------------|-----------------------------------|
+| [Website](https://lukeonline.net) |
+|-----------------------------------|
