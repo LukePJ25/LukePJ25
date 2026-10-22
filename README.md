@@ -1,1 +1,3 @@
-Hi, I'm Luke. I'm a student at Prifysgol Aberystwyth University. Projects are available on my [website](https://git.lukeonline.net/).
+Hi, I'm Luke.
+
+I no longer use *GitHub* for personal work. Projects are available on my [website](https://git.lukeonline.net/) instead.
